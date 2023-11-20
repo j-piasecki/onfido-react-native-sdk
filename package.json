@@ -62,10 +62,6 @@
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
-  "peerDependencies": {
-    "react": ">=17.0.0",
-    "react-native": ">=0.70.0 <1.0.x"
-  },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
     "@babel/core": "^7.20.0",
